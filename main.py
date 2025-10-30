@@ -16,8 +16,8 @@ from PyQt5.QtCore import QThread, pyqtSignal, Qt, QObject
 
 os.getcwd()
 
-SERVICE_ACCOUNT_KEY_PATH = "pychatgui-1e64d-firebase-adminsdk-fbsvc-447b534fba.json" 
-DATABASE_URL = 'https://pychatgui-1e64d-default-rtdb.asia-southeast1.firebasedatabase.app/'
+SERVICE_ACCOUNT_KEY_PATH = "당신의 firebase 키 json" 
+DATABASE_URL = '당신의 firebase db url'
 
 try:
     cred = credentials.Certificate(SERVICE_ACCOUNT_KEY_PATH)
