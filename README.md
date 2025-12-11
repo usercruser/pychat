@@ -21,3 +21,5 @@ firebase-admin - 리얼타임 DB 연결 위해 사용
 PyQT5 - gui 환경 구축 위해 사용
 
 ## 인 앱 스크린샷
+<img width="1758" height="720" alt="스크린샷_20251211_171816" src="https://github.com/user-attachments/assets/d8687edf-fd4b-4ee7-a098-08012d166343" />
+<img width="601" height="774" alt="image" src="https://github.com/user-attachments/assets/22e16a23-0566-4b1c-8ddc-cdb8c137252b" />
