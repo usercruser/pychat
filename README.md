@@ -19,3 +19,5 @@ PyQT5로 QT를 활용하여 GUI화면을 구축하였습니다.
 firebase-admin - 리얼타임 DB 연결 위해 사용
 
 PyQT5 - gui 환경 구축 위해 사용
+
+## 인 앱 스크린샷
