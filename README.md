@@ -15,7 +15,7 @@ PyQT5로 QT를 활용하여 GUI화면을 구축하였습니다.
 
 그 꿈에 한 발자국 다가간 것 같습니다.
 
-## 사용한 pypi 라이브러리
-firebase_admin - 리얼타임 db 연결 위해 사용
+## 사용한 PyPI 라이브러리
+firebase-admin - 리얼타임 DB 연결 위해 사용
 
-pyqt5 - gui 환경 구축 위해 사용
+PyQT5 - gui 환경 구축 위해 사용
